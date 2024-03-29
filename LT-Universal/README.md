@@ -4,4 +4,4 @@ Discord: https:/discord.gg/
 
 ## Inject using this script
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/livingtempest/LT-Project/main/LT%20Universal/provider.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/livingtempest/LT-Project/main/LT-Universal/provider.lua"))()
