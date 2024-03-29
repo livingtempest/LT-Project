@@ -1,1 +1,1 @@
-loadstring(game:HttpsGet("https://github.com/livingtempest/LT-Project/blob/main/LT-Universal/provider.lua"))()
+loadstring(game:HttpsGet("https://raw.githubusercontent.com/livingtempest/LT-Project/main/LT-Universal/provider.lua"))()
