@@ -20,7 +20,7 @@ local Player = game.Players.LocalPlayer --This Will Reveal The Player Name
 
 function MakeScriptHub()
 
-         loadstring(game:HttpGet("https://raw.githubusercontent.com/livingtempest/LT-Project/main/LT%20Universal/LT%20Loader.lua"))() --Put The Script That Will Load If The Key Is Correct Here
+         loadstring(game:HttpGet("https://raw.githubusercontent.com/livingtempest/LT-Project/main/LT-Universal/LT-Loader"))() --Put The Script That Will Load If The Key Is Correct Here
 
 end
 
