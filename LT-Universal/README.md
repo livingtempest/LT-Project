@@ -1,4 +1,4 @@
-# LT Universal is my roblox script containning multi games and a range of features
+## LT Universal is my roblox script containning multi games and a range of features
 
 Discord: https:/discord.gg/
 
