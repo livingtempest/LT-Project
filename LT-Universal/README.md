@@ -4,4 +4,4 @@ Get Key on the discord: https://discord.gg/bHy6eRMNeV
 
 ## Inject using this script
 
-foun in the "Inject" file
+found in the "Inject" file
