@@ -1,7 +1,7 @@
 # Rayfield Interface Suite
 This is the written documentation for Rayfield Interface Suite
 
-Tutorial: https://docs.sirius.menu/rayfield/configuration/windows
+Tutorial: (https://docs.sirius.menu/rayfield)
 
 ## Booting the Library
 ```lua
