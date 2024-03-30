@@ -1,3 +1,5 @@
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/livingtempest/LT-Project/main/Ari-Universe-Beta.lua"))()
+
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/livingtempest/LT-Project/main/Rayfield/source'))()
 
 local Window = Rayfield:CreateWindow({
